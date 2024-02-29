@@ -25,7 +25,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #dddddd;
+    color: #ffffff;
     outline: none;
     text-decoration: none;
 }
@@ -77,7 +77,7 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 90px;
+    height: 190px;
     background: #BF0A30;
 }
 
@@ -97,7 +97,7 @@ a:focus {
 
 .top-bar .logo img {
     max-width: 100%;
-    max-height: 60px;
+    max-height: 160px;
 }
 
 .top-bar .top-bar-item {
@@ -115,7 +115,7 @@ a:focus {
 
 .top-bar .top-bar-icon [class^="flaticon-"]::before {
     margin: 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 40px;
 }
 
@@ -125,14 +125,14 @@ a:focus {
 
 .top-bar .top-bar-text h3 {
     margin: 0 0 5px 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 400;
 }
 
 .top-bar .top-bar-text p {
     margin: 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 13px;
     font-weight: 400;
 }
@@ -205,7 +205,7 @@ a:focus {
 }
 
 .nav-bar .btn:hover {
-    color: #dddddd;
+    color: #ffffff;
     background: #BF0A30;
     border-color: #BF0A30;
 }
@@ -556,7 +556,7 @@ a:focus {
 .feature .feature-icon [class^="flaticon-"]::before {
     position: relative;
     margin: 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 60px;
     line-height: 60px;
     z-index: 3;
@@ -568,14 +568,14 @@ a:focus {
 
 .feature .feature-text h3 {
     margin: 0 0 10px 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 25px;
     font-weight: 600;
 }
 
 .feature .feature-text p {
     margin: 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 400;
 }
@@ -583,7 +583,7 @@ a:focus {
 .feature .col-md-12:nth-child(2n) [class^="flaticon-"]::before,
 .feature .col-md-12:nth-child(2n) h3,
 .feature .col-md-12:nth-child(2n) p {
-    color: #dddddd;
+    color: #ffffff;
 }
 
 
@@ -622,14 +622,14 @@ a:focus {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 1px;
-    color: #dddddd;
+    color: #ffffff;
     border-radius: 0;
     background: #BF0A30;
     transition: .3s;
 }
 
 .about .about-text a.btn:hover {
-    color: #dddddd;
+    color: #ffffff;
     background: #002868;
 }
 
@@ -696,17 +696,17 @@ a:focus {
 }
 
 .fact .fact-left {
-    color: #dddddd;
+    color: #ffffff;
     background: #002868;
 }
 
 .fact .fact-right {
-    color: #dddddd;
+    color: #ffffff;
     background: #BF0A30;
 }
 
 .fact .fact-left h2 {
-    color: #dddddd;
+    color: #ffffff;
 }
 
 
@@ -775,7 +775,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #dddddd;
+    color: #ffffff;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1262,7 +1262,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 18px;
     font-weight: 700;
-    color: #dddddd;
+    color: #ffffff;
     text-align: left;
     overflow: hidden;
     white-space: nowrap;
@@ -1279,7 +1279,7 @@ a:focus {
     font-size: 60px;
     line-height: 60px;
     font-weight: 100;
-    color: #dddddd;
+    color: #ffffff;
     background: #BF0A30;
     border-radius: 0;
     transition: .3s;
@@ -1378,7 +1378,7 @@ a:focus {
     font-size: 14px;
     font-weight: 400;
     color: #666666;
-    border: 1px solid #dddddd;
+    border: 1px solid #ffffff;
 }
 
 .single .single-tags a:hover {
@@ -1563,7 +1563,7 @@ a:focus {
     padding: 3px 10px;
     font-size: 14px;
     color: #002868;
-    background: #dddddd;
+    background: #ffffff;
     border-radius: 0;
 }
 
@@ -1650,7 +1650,7 @@ a:focus {
 
 .sidebar .search-widget input {
     height: 50px;
-    border: 1px solid #dddddd;
+    border: 1px solid #ffffff;
     border-radius: 0;
 }
 
@@ -1754,7 +1754,7 @@ a:focus {
     font-size: 14px;
     font-weight: 400;
     color: #666666;
-    border: 1px solid #dddddd;
+    border: 1px solid #ffffff;
 }
 
 .single .tag-widget a:hover {
@@ -1961,7 +1961,7 @@ a:focus {
 
 .contact .contact-item [class^="flaticon-"]::before {
     margin: 0;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 40px;
 }
 
@@ -1972,7 +1972,7 @@ a:focus {
 }
 
 .contact .contact-text h2 {
-    color: #dddddd;
+    color: #ffffff;
     font-size: 20px;
     font-weight: 600;
 }
